@@ -2,7 +2,8 @@
 
 ![Screen Shot 2023-09-19 at 4 03 23 PM](https://github.com/jordanmichb/Timer/assets/95947696/b8b6aef6-5700-4c7e-897e-68b875785816)
 
-![Screen Shot 2023-09-19 at 4 03 44 PM](https://github.com/jordanmichb/Timer/assets/95947696/d1da5d39-fe2a-48ff-92b4-dedba8d54739)
+![Screen Shot 2023-09-19 at 4 05 45 PM](https://github.com/jordanmichb/Timer/assets/95947696/d615397f-6c3b-4aca-809d-76d64c529ac9)
+
 
 ## Run the App
 
